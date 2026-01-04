@@ -4,23 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2982e233-be94-4d78-aec3-eb853a50b060" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/OrderStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Product.java" afterDir="false" />
+    <list default="true" id="2982e233-be94-4d78-aec3-eb853a50b060" name="Changes" comment="git remote add origin https://github.com/devmariagabriela/Live-Lightly.git">
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/AdminOrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/AdminProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/ShopController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +18,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "devmariagabriela"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/devmariagabriela/Live-Lightly.git",
+    "accountId": "fc0da969-a9d1-45b3-80b1-2f7a1b1527bc"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2
 }]]></component>
@@ -67,6 +67,15 @@
       <option name="presentableId" value="Default" />
       <updated>1767552547752</updated>
     </task>
+    <task id="LOCAL-00001" summary="git remote add origin https://github.com/devmariagabriela/Live-Lightly.git">
+      <option name="closed" value="true" />
+      <created>1767554042487</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1767554042487</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,5 +88,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&#10;git init" />
+    <MESSAGE value="git remote add origin https://github.com/devmariagabriela/Live-Lightly.git" />
+    <option name="LAST_COMMIT_MESSAGE" value="git remote add origin https://github.com/devmariagabriela/Live-Lightly.git" />
   </component>
 </project>
